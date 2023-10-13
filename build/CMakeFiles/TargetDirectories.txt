@@ -1,0 +1,3 @@
+/mnt/c/users/rache/onedrive/documents/CPTS_223/PA_2/build/CMakeFiles/PA_2.dir
+/mnt/c/users/rache/onedrive/documents/CPTS_223/PA_2/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/rache/onedrive/documents/CPTS_223/PA_2/build/CMakeFiles/rebuild_cache.dir
