@@ -1,0 +1,12 @@
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 66733[ms]
+Time difference = 2[ms]
+Time difference = 1[ms]
+Time difference = 2[ms]
+current size: 99999 bucket count: 222461 load factor: 0.449513
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 19142[ms]
+Time difference = 0[ms]
+Time difference = 0[ms]
+Time difference = 0[ms]
+current size: 100000 bucket count: 222461 load factor: 0.449517
